@@ -226,6 +226,53 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 32px;
   font-style: normal;
   text-align: center;
+  color:rgb(255, 255, 255);
+}
+.benefit__icon--infinite::before {
+  content: "\f44a";
+  display: block;
+  font-family: "Ionicons";
+  font-size: 32px;
+  font-style: normal;
+  text-align: center;
+  color:rgb(255, 255, 255);
+}
+.benefit__icon--wordpress::before {
+  content: "\f248";
+  display: block;
+  font-family: "Ionicons";
+  font-size: 32px;
+  font-style: normal;
+  text-align: center;
+  color:rgb(255, 255, 255);
+}
+.benefit__icon--cart::before {
+  content: "\f3f7";
+  display: block;
+  font-family: "Ionicons";
+  font-size: 32px;
+  font-style: normal;
+  text-align: center;
+  color:rgb(255, 255, 255);
+}
+.benefit__icon--settings::before {
+  content: "\f4a7";
+  display: block;
+  font-family: "Ionicons";
+  font-size: 32px;
+  font-style: normal;
+  text-align: center;
+  color:rgb(255, 255, 255);
+}
+
+.benefit__icon--support::before {
+  content: "\f2ad";
+  display: block;
+  font-family: "Ionicons";
+  font-size: 32px;
+  font-style: normal;
+  text-align: center;
+  color:rgb(255, 255, 255);
 }
 
 .benefit__title {
