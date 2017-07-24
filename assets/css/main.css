@@ -226,6 +226,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 32px;
   font-style: normal;
   text-align: center;
+  line-height: 40px;
   color:rgb(255, 255, 255);
 }
 .benefit__icon--infinite::before {
@@ -235,6 +236,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 32px;
   font-style: normal;
   text-align: center;
+  line-height: 40px;
   color:rgb(255, 255, 255);
 }
 .benefit__icon--wordpress::before {
@@ -244,6 +246,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 32px;
   font-style: normal;
   text-align: center;
+  line-height: 40px;
   color:rgb(255, 255, 255);
 }
 .benefit__icon--cart::before {
@@ -253,6 +256,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 32px;
   font-style: normal;
   text-align: center;
+  line-height: 40px;
   color:rgb(255, 255, 255);
 }
 .benefit__icon--settings::before {
@@ -262,6 +266,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 32px;
   font-style: normal;
   text-align: center;
+  line-height: 40px;
   color:rgb(255, 255, 255);
 }
 
@@ -272,6 +277,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 32px;
   font-style: normal;
   text-align: center;
+  line-height: 40px;
   color:rgb(255, 255, 255);
 }
 
